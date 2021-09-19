@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App de conversão de moedas e temperatura</string>
+    <string name="insira_uma_temperatura_em_c">Insira uma Temperatura em °C</string>
+    <string name="converter">Converter</string>
+</resources>
